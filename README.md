@@ -20,4 +20,4 @@ Hello, my name is Agus Pranata. I am interested in web development and user inte
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/aguspranatamarpaung/" target="_blank">Agus Pranata</a> Email: aguspranatamarpaung2005@gmail.com</p>
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/aguspranatamarpaung/" target="_blank">Agus Pranata Marpaung</a> Email: aguspranatamarpaung2005@gmail.com</p>
