@@ -6,7 +6,7 @@
 
 <!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aguspranata005&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 💻 Tech Stack
