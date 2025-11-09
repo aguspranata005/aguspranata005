@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Welcome to Agus Pranata Marpaung's Profile 🌟
+# Hello, I am Agus Pranata 👋
 
 <p><em>I am interested in web development and user interface design. I have worked on several projects that I found interesting, allowing me to express my creative ideas.</em></p>
 
@@ -15,7 +15,7 @@
 
 <!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aguspranata005&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 💻 Tech Stack
