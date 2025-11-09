@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, I am Agus Pranata 👋
+# 🌟 Welcome to Agus Pranata Marpaung's Profile 🌟
 
 <p><em>I am interested in web development and user interface design. I have worked on several projects that I found interesting, allowing me to express my creative ideas.</em></p>
 
@@ -61,7 +61,7 @@
 <!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URLs below -->
 <img src="https://komarev.com/ghpvc/?username=aguspranata005&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 
-<img src="https://img.shields.io/github/followers/YOUR-USERNAME?style=for-the-badge&color=ff69b4" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/aguspranata005?style=for-the-badge&color=ff69b4" alt="Followers"/>
 
 <p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
 
