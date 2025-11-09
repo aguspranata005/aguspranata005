@@ -6,9 +6,10 @@ Hello, my name is Agus Pranata. I am interested in web development and user inte
 
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=php&logoColor=fff"> 
 <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"> 
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">
 
 ## GitHub Stats
 
