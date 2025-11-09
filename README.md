@@ -8,7 +8,7 @@ I am currently a 5th semester student located in Sitoluama, Laguboti. My interes
 
 ## Skills & Technologies
 
-php,html,css,react,bootstrap,git,docker,mysql,nodejs
+[php,html,css,react,bootstrap,git,docker,mysql,nodejs](https://skillicons.dev/icons?i=php,html,css,react,bootstrap,git,docker,mysql,nodejs&perline=8)
 
 ## GitHub Stats
 
