@@ -1,52 +1,68 @@
-# Hi 👋, I'm Agus Pranata Marpaung
+<div align="center">
 
-**I am interested in web development and user interface design. I have worked on several projects that I found interesting, allowing me to express my creative ideas.**
+# 🌟 Welcome to Agus Pranata Marpaung's Profile 🌟
+
+<p><em>I am interested in web development and user interface design. I have worked on several projects that I found interesting, allowing me to express my creative ideas.</em></p>
+
+<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
+<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
+
+</div>
+
+<hr>
 
 ## 📊 GitHub Stats
 
 <!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aguspranata005&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 💻 Tech Stack
 
+<div align="center">
+
 ### 🎨 Frontend
 
-<img src="https://img.shields.io/badge/Bootstrap-ff69b4?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&color=ff69b4">
 
 ### ⚙️ Backend
 
-<img src="https://img.shields.io/badge/MySQL-4169e1?style=for-the-badge&logo=mysql&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&color=4169e1">
 
 ### 🚀 DevOps
 
-<img src="https://img.shields.io/badge/Docker-9370db?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-9370db?style=for-the-badge&logo=kubernetes&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&color=9370db"> <img src="https://img.shields.io/badge/-Kubernetes-05122A?style=for-the-badge&color=9370db">
 
 ### 💬 Languages
 
-<img src="https://img.shields.io/badge/PHP-FFA500?style=for-the-badge&logo=php&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&color=FFA500">
+
+</div>
 
 ## 🌐 Socials
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aguspranatamarpaung/) 
+<a href="https://www.linkedin.com/in/aguspranatamarpaung/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=df6b9a"></a> 
 
 </div>
 
 ## 📫 How to reach me
 
-<div align="left">
+<div align="center">
 
-📧 **Email:** [aguspranatamarpaung2005@gmail.com](mailto:aguspranatamarpaung2005@gmail.com)
+**Email:** aguspranatamarpaung2005@gmail.com
 
 </div>
 
----
-⭐️ From [Agus Pranata Marpaung](https://github.com/)
-
-<!-- Profile views counter -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/YOUR-USERNAME/count.svg" alt="Visitor Count" />
+
+<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URLs below -->
+<img src="https://komarev.com/ghpvc/?username=aguspranata005&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+
+<img src="https://img.shields.io/github/followers/YOUR-USERNAME?style=for-the-badge&color=ff69b4" alt="Followers"/>
+
+<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
+
 </div>
